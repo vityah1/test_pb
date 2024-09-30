@@ -39,5 +39,5 @@
 Для запуску проєкту скористайтесь командою:
 
 ```bash
-docker-compose up --build
+docker compose up --build
 
